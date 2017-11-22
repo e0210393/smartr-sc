@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"whiteList","type":"address"},{"name":"addr","type":"address"}],"name":"assert","outputs":[],"payable":false,"type":"function"}]
