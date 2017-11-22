@@ -1,1 +1,0 @@
-[{"constant":false,"inputs":[],"name":"getToken","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"tokenAddress","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"inputs":[{"name":"_tokenAddress","type":"address"}],"payable":false,"type":"constructor"},{"payable":false,"type":"fallback"}]
